@@ -1,3 +1,2 @@
-# Updated Application Developer B
-# Update Application Adding  Developer A Story
+Exploratory Data Analysis with Pandas
 
